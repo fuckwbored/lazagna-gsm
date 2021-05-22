@@ -30,3 +30,8 @@ https://t.me/termqew
 ###### Telegram Channel
 
 https://t.me/termuxqew!
+
+
+## Video Tutorial
+
+https://www.youtube.com/watch?v=3UmqoxcAoD0
