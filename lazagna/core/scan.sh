@@ -1,1 +1,1 @@
-sudo grgsm_scanner -v -b GSM900 --debug --args=rtl
+sudo grgsm_scanner -v -b GSM900 --args=rtl
